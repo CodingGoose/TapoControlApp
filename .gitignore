@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+#! Other Files to Be Ignored
+setup.py
+
 # C extensions
 *.so
 

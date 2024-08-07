@@ -25,7 +25,7 @@ window = tk.Tk()
 window.geometry("300x500")
 window.title("Tapo Control Center")
 
-icon = tk.PhotoImage(file='./img/icon.png') # makes icon.png into a so-called PhotoImage
+icon = tk.PhotoImage(file='.\\img\\icon.png') # makes icon.png into a so-called PhotoImage
 window.iconphoto(True,icon)
 
 window.config(background="#ffffff")
